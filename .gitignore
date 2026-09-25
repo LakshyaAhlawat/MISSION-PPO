@@ -1,0 +1,6 @@
+*.tsv
+ML_CHALLENGE_data.zip
+data/full/
+__pycache__/
+*.pyc
+.claude/
